@@ -1,0 +1,3 @@
+These guys are often seen accompanying [[Mechaknights]] throughout the wastes. They are basically just a robotic dog constructed in much the same way as a [[Mechaknights]] would be, except they... you know, have four legs like a dog and bark and are roughly dog shape and size. 
+
+This means they are in a similar state of decay, and often they will randomly go rabid in much the same way as [[Feral Mechaknight]]s, and join the [[Mechaknight Hoarde]]. But players can tame them - it is harder for human characters though. 

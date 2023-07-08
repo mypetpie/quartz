@@ -1,0 +1,1 @@
+a small settlement with only a few shops and buildings, potentially controlled by any of the major factions. 

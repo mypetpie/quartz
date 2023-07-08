@@ -1,0 +1,3 @@
+Desert crawlers are a carnivorous, spider-like insect known for its swift movement across desert sands. Its 6 legs are specially designed to propel them along the top of the sands much like a water bug skims its way across a pond. 
+
+About waist-high on the average human, desert crawlers subsist primarily on defenseless or unaware wanderers deep in the desert, generally well outside the cities. The best method of countering these guys is to shoot them with a decent bow from a very far distance, as once they get close to you it can be very difficult to block the bites from their fangs. [[Tower Shield]]s, [[Spear]]s, and other melee weapons with long reach or piercing are good counters, should you find that one gets too close. 

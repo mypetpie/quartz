@@ -1,0 +1,9 @@
+The God-Hand of the Emperor, an "elite" order of [[Knights]] serving theoretically under the direct command under the [[Imperator]], make up the bulk of the police force within cities under rule of [[The Kingdom of Man]].  Their ranks comprised entirely of human men, these guys are responsible for making sure the will of the [[Imperator]], or whatever other local entity (such as the [[Trade Guild]]) buys them out, is carried out on the population of the land. Many of them also serve in basic infantry units in times of war.
+
+In theory, these men are the shining example of the values of the Kingdom, written about in myths and legends as the great heroes of [[Human]]-kind, the noble and chivalrous maintainers of peace and order throughout the kingdom. In practice, however, these guys are basically just crooked cops, often carrying an attitude problem, and always looking to make a buck. They can be bribed into falsely accusing just about anyone of a crime, and the total immunity from the law granted to them by the Imperator allows them to get away with it freely and openly. They are, for all intents and purposes, generally an enemy to the player for this reason. 
+
+Since slavery is not only legal but seen as a perfectly valid punishment by many within the Kingdom, this means Knights are also essentially slave catchers, and will sometimes falsely accuse people of crimes simply so that they can be brought into prison and later sold for a few [[Mon]]. 
+
+Physical desc:
+
+Well I already said they were all human men. These guys are DRIPPED out to the fucking maximum in the best armor and gear that can be produced within an extremely anti-tech luddite society. For more info, see [[Knights]]. 

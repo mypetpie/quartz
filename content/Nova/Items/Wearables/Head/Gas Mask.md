@@ -1,0 +1,1 @@
+A respirator commonly worn by researchers and explorers from [[The University]] who happen to be working in the [[Rainforest]]. Can be bought at basically every University outpost that has a [[General Store]] or [[Travel Supplies]] shop.  Offers slightly better protection from the elements than the cheaper, but craftable, [[Makeshift Respirator]].

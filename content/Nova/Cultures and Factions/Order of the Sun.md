@@ -1,0 +1,1 @@
+Basically [[The God-Hand]] of the [[Confederation of Free Cities]]. For a physical description, see [[Knights]]. 

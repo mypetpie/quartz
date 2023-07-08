@@ -1,0 +1,1 @@
+"Magic," in this world, refers to the usage of certain ancient [[artefacts]] which can be found in many [[ruins]] throughout the continent. Many of these take the form of staves, which can be charged with [[lifeblood]]

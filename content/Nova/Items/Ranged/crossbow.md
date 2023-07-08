@@ -1,0 +1,2 @@
+"Weapon of choice for the vast majority of University rangers. Capable of piercing armor at long distances, and extremely effective against the exoskeletons of many bugs. This one isn't a 
+particularly special one, but it'll do the job."

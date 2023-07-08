@@ -1,0 +1,1 @@
+The head [[Mage]] of [[The University]], said in the legends to be the successors 

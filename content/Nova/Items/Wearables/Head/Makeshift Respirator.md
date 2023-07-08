@@ -1,0 +1,1 @@
+The much cheaper, craftable alternative to the [[Gas Mask]]. For those who can't afford the steep cost of University tech. Does not last long, and needs to be replaced after the filter breaks. If you're going to try and use these for a longer expedition into the Moss, its good to bring a few to prevent unwanted side-effects caused by [[Moss]] inhalation.

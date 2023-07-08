@@ -1,0 +1,6 @@
+A standard researcher and explorer that's been formally recruited by the university. They are magic users, and are used by [[The University]] to fulfill a wide variety of roles, from guarding remote [[outposts]] to going on deep [[Rainforest]] expeditions. IF THEY ARE NOT MAGIC USERS THEYRE [[ranger]]s!!!!
+
+Mages, very frequently, are either on expeditions in the [[Rainforest]] looking for [[artefacts]] hidden deep within ancient [[ruins]], or living in a city paying people to do that for them so they can research the [[artefacts]] themselves. 
+
+
+note: "Mage" can be sort of a catch-all term for magic user, and really is a word basically used to refer to anyone from even just the earliest recruits to the most powerful of [[Magic]] wielders. Sort of like a "witch" or a "wizard", but these terms don't work very well when at least half of all the mages in the game are genderless bug-people...  If they are formally recruited by [[The University]] and practice some kind of magic,  then they are a mage. If they do not practice magic and are formally recruited by the University, they are a [[ranger]]. 

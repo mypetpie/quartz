@@ -1,0 +1,8 @@
+A unique, recruitable [[Halflings]] NPC that can usually be found lurking in a bar somewhere within the outer [[The University]] territories. 
+
+
+Once a professional thief within the [[Theives Guild]], Oba was caught by [[The God-Hand]] in the middle of stealing a set of armor by trying to walk out of the store with it on.  From there, they spent many years living as a member of the local noble's slave militia, before instigating a revolt against their master and leading a band of slaves who survived the assault across the [[Desert]], to safety in the [[Confederation of Free Cities]], where the [[Theives Guild]] hideout they worked out of was located. However, upon arriving there, they discovered that the local [[Knights]] from the [[Order of the Sun]] had destroyed their base, and this band of survivors was promptly executed. Oba, however, managed to escape this, but upon arriving at another [[Theives Guild]] outpost came to learn they were branded a permanent traitor. From there, they spent ages wandering the Desert in guilt, only to end up in whatever [[The University]] bar you find them in in the game. 
+
+Physical description: 
+
+Baba looks very similar to your typical [[Halflings]]. You can usually find them wearing some simple leather padding, an old and rusty helmet that appears to be very similar to ones which the [[Order of the Sun]] uses for their members, and some thick knee-high padded boots over a pair of plain pants. He doesn't usually carry a weapon, although occaisionally he will spawn with a generic [[Rusty Sword]] or something along those lines. 

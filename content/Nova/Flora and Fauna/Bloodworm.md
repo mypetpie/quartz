@@ -1,0 +1,1 @@
+Parasitic worm that jumps onto you and causes continual damage until you roll enough to get it off, or find a way to hit it off.

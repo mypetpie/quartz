@@ -1,0 +1,1 @@
+The currency of Nova - a small brass or silver coin with a square stamped out of the middle of it. An essentially worthless currency minted by the [[Trade Guild]] that is accepted in basically every [[Shops]] across the [[Map]]. 

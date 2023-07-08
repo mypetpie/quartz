@@ -1,0 +1,3 @@
+In Nova, much of the clothing the average person would wear is very simple. If you are a normal citizen of a place that is not impoverished, then the clothes you might wear would be something like a tunic and simple pants, along with a pair of wooden sandals and perhaps a hat of some kind. If you are wealthy enough, or lucky to inherit such an item, you might carry a simple sword for self defense. Otherwise, you might have a simple [[Rusty Staff]] that you can use to attempt to beat off any [[Bandit Tribes]] and [[Head Hunters]]. 
+
+[[Starving Peasants]], though, which represent the vast majority of people living within the walls of most cities outside of [[The University]], often have no shirts, and very ragged pants, and maybe even no shoes. They don't

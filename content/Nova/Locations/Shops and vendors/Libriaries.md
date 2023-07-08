@@ -1,0 +1,1 @@
+A place for you to buy and trade various books that can be looted from places around the continent. Some books, such as [[Dawn of the Age of Fire]], and other texts considered sacre/magical by [[The University]], are illegal within [[The Kingdom of Man]], and as such cannot be sold in their cities without repercussions.

@@ -1,0 +1,3 @@
+Feral Mechaknights, simply put, are [[Mechaknights]] whos minds have deteriorated to such a state that they no longer posess any shred of humanity, and revert back to a "feral" state. It is said by some people that this is caused by their intrinsic desire to protect the [[Rainforest]] combined with the lamentation of the time that came before. 
+
+note: [[Feral Mechaknight]] is sometimes the common term for all of the Mechaknights which are part of the hoarde - there ARE more than one type of them. 

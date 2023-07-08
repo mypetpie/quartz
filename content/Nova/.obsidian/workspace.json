@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "304ba770572546af",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec1d77e8c9418c5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05e1981d3c3b9bf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General facts and Info/Magic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1261497b5d3a34b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General facts and Info/Magic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4ca9ab6dc116b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religious Concepts/THE UNIVERSITY RELIGION.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72e643a4bb510646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religious Concepts/Rot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08b4c93841be8fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Temples, sites, places of interest/wells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54d43dd8a8753c2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "178bff6aec22f832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e828cc7afd4a436",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "730725951743782c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "knight",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb653e56b0f29539",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ffe8b81474b7382",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ccd5fde170f3bf61",
+    "type": "split",
+    "children": [
+      {
+        "id": "382e11a32bc5c7bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c11016bd222eab53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General facts and Info/Magic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3ce555009267b94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "General facts and Info/Magic.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b621eebcfa761544",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd62f5acb1b1f9bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "General facts and Info/Magic.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e1261497b5d3a34b",
+  "lastOpenFiles": [
+    "General facts and Info/Mon.md",
+    "General facts and Info/Clothing.md",
+    "Not Immediately Hostile NPCs/Starving Peasants.md",
+    "Intelligent Species/Halflings.md",
+    "Intelligent Species/Human.md",
+    "Intelligent Species/Mechaknights.md",
+    "Flora and Fauna/Mech-Hounds.md",
+    "Humanoid Things that Will Kill You/Mechaknights/Feral Mechaknight.md",
+    "Humanoid Things that Will Kill You/People/Head Hunters.md",
+    "Humanoid Things that Will Kill You/People/Cannibals.md",
+    "Cultures and Factions/Trade Guild.md",
+    "Notable People/Unique NPCs/Recruitables/Baba.md",
+    "Cultures and Factions/Theives Guild.md",
+    "Cultures and Factions/Bandit Tribes.md",
+    "Cultures and Factions/Confederation of Free Cities.md",
+    "Cultures and Factions/Cannibal Tribes.md",
+    "Cultures and Factions/Mechaknight Hoarde.md",
+    "Cultures and Factions/The Kingdom of Man.md",
+    "Locations/Shops and vendors/Armor Shop.md",
+    "General facts and Info/Knights.md",
+    "General facts and Info/Time.md",
+    "General facts and Info/Stats.md",
+    "General facts and Info/Magic.md",
+    "General facts and Info/lifeblood.md",
+    "Items/Shields/Tower Shield.md",
+    "Items/Armor",
+    "Items/Shields",
+    "Cultures and Factions/Order of the Sun.md",
+    "Untitled.canvas",
+    "Images/Nova Biome Map New.png"
+  ]
+}

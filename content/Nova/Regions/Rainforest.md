@@ -1,0 +1,4 @@
+Without a doubt the most hostile biome to basically all biological life, this biome is home to an immense variety of carnivorous plants and insects that are constantly on the lookout for their next meal.  Explorers heading into this region should make sure they have at least a [[Makeshift Respirator]] or [[Gas Mask]] to protect them from [[Moss Sickness]] and other air-born pathogens one might find themselves near, such as ______ - and -. (put new disease ideas here later lol)
+
+
+Despite being the most hostile (and likely least survivable) region in the world, the Rainforest is made home by one of the biggest factions on the continent, [[The University]]. Hidden deep within the [[Moss]], there are at least 6 cities controlled by [[The University]], who work to actively defend the existence of the Rainforest, as it is their belief that the Rainforest is the natural state of the world that will one day inevitably consume everything. This concept is known as [[Rot]].

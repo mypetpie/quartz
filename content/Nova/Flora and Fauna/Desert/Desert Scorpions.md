@@ -1,0 +1,1 @@
+A slow, towering insect with six legs and two massive pinchers, alongside a massive tail-like stinger.   

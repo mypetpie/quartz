@@ -1,0 +1,11 @@
+A large(like twice the size of humans), carnivorous bug that hunts either alone or in small "families" of 2-4. Much like real life mosquitos, these bugs possess wings and are able to "fly" short distances, more like a very big hop, and rely generally on surprise and agility to hunt their prey.  Their wings are not strong enough to fly very high nor very long, due to the size of the insect, so instead they act as a light propeller to make the mosquito able to "hop" great distances. 
+
+People venturing through the [[Plains]] would be advised to carry some kind of ranged weapon, or a very big [[Sword]] that does a lot of cutting damage, as once these things get close to you they can be hard to counter without decent Dexterity [[Stats]] or very good aim.
+
+Weak to arrows and heavy weapons due to their heavy reliance on the element of surprise over their defensive capabilities - anything with a high amount of cutting or piercing damage will do. In game, these won't be especially hard to kill, although they can be tricky for new players as it takes a while to get used to being on the lookout for them. A distinct, but very quiet, buzzing noise can occasionally be heard to signal that they are around. 
+
+HOW DO THEY HUNT? HOW DO THEY FEED ON PREY?
+
+Mosquitos have a long, incredibly strong proboscis that extends outward from their head, and ends in a short mouth with 10(idk about this number) razor sharp teeth. This makes their mouths essentially like a spear, and when combined with their massive jump height/range, it can be an incredibly deadly weapon. Then, they suck the blood out of their victims until they are unconscious, at which point basically they just slowly feed on their victim like any other insect might. 
+
+In order to maintain the element of surprise over their prey, and perhaps stay hidden since they are mostly sedentary beyond their occasional "hopping" toward food, these bugs stick ONLY to tall, grassy areas that will obscure them from view until they are ready to strike. You generally won't find these guys away from the tall grass that often surrounds ponds and other parts of the plains.

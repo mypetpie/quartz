@@ -1,0 +1,1 @@
+A disease you can catch from spending too much time around [[Moss]] without the proper respiratory gear. Causes one to go completely insane as their body grows mold from the inside - out. Excruciatingly painful and has no known cure - although many potion sellers would probably claim otherwise.

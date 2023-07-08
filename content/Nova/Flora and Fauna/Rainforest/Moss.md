@@ -1,0 +1,3 @@
+A sticky, poisonous substance that coats the floor of the [[Rainforest]]. Inhaling the "fumes"(spores) that it gives off causes a wide variety of health issues, from Lung Rot to [[Moss Sickness]].
+
+Note: many people anecdotally refer to the [[Rainforest]] as "The [[Moss]]," due to the way it seems to have grown over and/or killed large swaths of previously useable land, as well as the way that it coats essentially the entire floor of the [[Rainforest]].
